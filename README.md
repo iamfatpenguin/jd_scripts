@@ -23,7 +23,7 @@
 ***您使用或者复制了本仓库且本人制作的任何脚本，则视为`已接受`此声明，请仔细阅读***
 
 ### 青龙拉取仓库命令：
-国外鸡ql repo  https://github.com/iamfatpenguin/jd_scripts.git  "jd_|jx_|getJDCookie" "activity|backUp" "^jd[^_]|USER|utils"
+国外鸡  ql repo  https://github.com/iamfatpenguin/jd_scripts.git  "jd_|jx_|getJDCookie" "activity|backUp" "^jd[^_]|USER|utils"
 
 ************************************************************************************************************************************
 v4修改默认库为 https://github.com/iamfatpenguin/jd_scripts.git 
